@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![alt](https://abhishu7.github.io/clickygame/)
+(https://abhishu7.github.io/clickygame/)
 
 ## Available Scripts
 
